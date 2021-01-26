@@ -38,7 +38,7 @@
    ###### Cloning Repository
       
       Example for GitHub App: ` https://github.com/CorvusOps/RE-cord.git ` 
-      ![Clone A Repository](/Images/CloneARepo.PNG)
+![Clone A Repository](/Images/CloneARepo.PNG)
       Example for Git Bash: ` git clone https://github.com/CorvusOps/RE-cord.git `
       
    #### Branching
